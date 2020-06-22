@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-I am the director of the [iCAN](go.cs.illinois.edu/iCAN) program. iCAN is a one-year program for college graduates, who graduated with any major besides computer science, to gain fundamental computing skills. The iCAN program serves as an innovative pathway to a tech job in industry or graduate studies in computer science.
+iCAN is a one-year program for college graduates, who graduated with any major besides computer science, to gain fundamental computing skills. The iCAN program serves as an innovative pathway to a tech job in industry or graduate studies in computer science.
