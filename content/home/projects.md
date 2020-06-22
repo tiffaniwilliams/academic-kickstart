@@ -57,7 +57,7 @@ subtitle = ""
   # color = "navy"
   #color = "white"
   #color = "#13294B" (UIUC blue)
-  color = "#5E6669"
+  color = "#E8E9EA"
   
   # Background gradient.
   #gradient_start = "DeepSkyBlue"
@@ -68,7 +68,7 @@ subtitle = ""
   # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
   
 [advanced]
  # Custom CSS. 
