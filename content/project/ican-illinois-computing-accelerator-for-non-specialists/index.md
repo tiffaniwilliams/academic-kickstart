@@ -2,7 +2,7 @@
 title: "iCAN: Illinois Computing Accelerator for Non-Specialists"
 date: 2020-06-22T03:21:57.571Z
 draft: false
-featured: false
+featured: true
 external_link: https://go.cs.illinois.edu/iCAN
 image:
   filename: featured.png
