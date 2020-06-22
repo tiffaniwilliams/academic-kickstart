@@ -1,12 +1,13 @@
 ---
+title: Tiffani L. Williams
+role: Teaching Professor of Computer Science
+avatar_filename: tlw-index-image.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Tiffani L. Williams
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
