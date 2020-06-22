@@ -19,9 +19,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - link: https://www.linkedin.com/in/tiffani-williams-5091a24/
-    icon: linkedin
-    icon_pack: fab
 education:
   courses: []
 email: tiffani@illinois.edu
