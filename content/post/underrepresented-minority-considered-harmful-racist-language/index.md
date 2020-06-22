@@ -5,7 +5,7 @@ summary: "[6/19/20] Posted
   [here](https://cacm.acm.org/blogs/blog-cacm/245710-underrepresented-minority-\
   considered-harmful-racist-language/fulltext) on Blog@CACM. "
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
