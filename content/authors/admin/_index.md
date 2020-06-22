@@ -1,7 +1,7 @@
 ---
 title: Tiffani L. Williams
-role: Teaching Professor of Computer Science
-avatar_filename: tlw-index-image.jpg
+role: Teaching Professor, Department of Computer Science
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Illinois at Urbana-Champaign
     url: ""
