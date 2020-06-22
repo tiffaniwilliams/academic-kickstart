@@ -55,19 +55,18 @@ subtitle = ""
   
   # Background color.
   # color = "navy"
-  color = "white"
+  #color = "white"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
-  #text_color_light = false
+  # text_color_light = true
   
 [advanced]
  # Custom CSS. 
