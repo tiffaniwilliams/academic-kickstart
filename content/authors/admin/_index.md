@@ -27,7 +27,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 education:
   courses: []
-email: ""
+email: tiffani@illinois.edu
 user_groups:
   - ""
 ---
