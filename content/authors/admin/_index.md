@@ -19,11 +19,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/tlwilliamsphd
   - link: https://www.linkedin.com/in/tiffani-williams-5091a24/
-    icon: LinkedIn
+    icon: linkedin
     icon_pack: fab
 education:
   courses: []
