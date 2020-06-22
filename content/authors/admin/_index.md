@@ -19,8 +19,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-education:
-  courses: []
+#education:
+#  courses: []
 email: tiffani@illinois.edu
 user_groups:
   - ""
