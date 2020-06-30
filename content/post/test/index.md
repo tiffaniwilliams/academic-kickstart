@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[6/19/20]https://cacm.acm.org/blogs/blog-cacm/245710-underrepresented-minority-considered-harmful-racist-language/fulltext
+[6/19/20] https://cacm.acm.org/blogs/blog-cacm/245710-underrepresented-minority-considered-harmful-racist-language/fulltext
