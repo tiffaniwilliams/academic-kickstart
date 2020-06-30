@@ -11,4 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-jj
+The foundation of any collective action, of any community, is language. It influences how we feel, react, and understand.
+
+Posted on [Blog@CACM](https://cacm.acm.org/blogs/blog-cacm/245710-underrepresented-minority-considered-harmful-racist-language/fulltext).
