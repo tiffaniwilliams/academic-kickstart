@@ -16,7 +16,8 @@
 #theme = "minimal"
 #theme= "Ocean"
 #theme="Apogee"
-theme="1950s"
+#theme="1950s" #no
+theme="Forest"
 
 # Enable users to switch between day and night mode?
 day_night = false
