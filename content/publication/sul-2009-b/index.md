@@ -6,7 +6,7 @@ authors: ["Seung-Jin Sul", "Suzanne Matthews", "Tiffani L Williams"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*BMC bioinformatics*"
+publication: "*BMC Bioinformatics*"
 url_pdf: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-S4-S3"
 ---
 
