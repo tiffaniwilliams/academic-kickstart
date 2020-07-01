@@ -1,5 +1,5 @@
 ---
-title: "iCAN: Illinois Computing Accelerator for Non-Specialists"
+title: "iCAN "
 date: 2020-06-22T03:21:57.571Z
 draft: false
 featured: true
