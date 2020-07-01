@@ -6,7 +6,7 @@ authors: ["Usman W Roshan", "Tandy Warnow", "Bernard ME Moret", "Tiffani L Willi
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings. 2004 IEEE Computational Systems Bioinformatics Conference, 2004. CSB 2004.*"
+publication: "*Proceedings - 2004 IEEE Computational Systems Bioinformatics Conference*"
 doi: "https://ieeexplore.ieee.org/document/1332422"
 ---
 
