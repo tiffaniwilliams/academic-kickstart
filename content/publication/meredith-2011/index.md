@@ -6,7 +6,7 @@ authors: ["Robert W Meredith", "Jan E Janečka", "John Gatesy", "Oliver A Ryder"
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*science*"
+publication: "*Science*"
 url_pdf: "https://science.sciencemag.org/content/334/6055/521"
 ---
 
