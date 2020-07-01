@@ -6,7 +6,7 @@ authors: ["Ralph W Crosby", "Tiffani L Williams"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*BMC bioinformatics*"
+publication: "*BMC Bioinformatics*"
 url_pdf: "https://doi.org/10.1186/s12859-017-1916-1"
 ---
 
