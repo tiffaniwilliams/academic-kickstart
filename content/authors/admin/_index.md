@@ -10,7 +10,7 @@ authors:
 title: Tiffani L. Williams
 bio: My research interests include bioinformatics and computational biology;
   computational phylogenetics; high-performance computation; and computers and
-  education..
+  education.
 interests:
   - Bioinformatics and Computational Biology
   - Computational Phylogenetics
