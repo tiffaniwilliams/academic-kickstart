@@ -92,7 +92,7 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tiffani [at] illinois.edu"
+email = "tiffani@illinois.edu"
 #phone = "888 888 88 88"
 
 # Address
