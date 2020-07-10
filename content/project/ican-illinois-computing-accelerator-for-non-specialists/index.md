@@ -1,5 +1,5 @@
 ---
-title: Applications Now Open!
+title: Applications are Now Open!
 date: 2020-06-22T03:21:57.571Z
 draft: false
 featured: true
