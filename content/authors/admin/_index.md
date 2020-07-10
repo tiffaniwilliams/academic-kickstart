@@ -8,13 +8,14 @@ superuser: true
 authors:
   - admin
 title: Tiffani L. Williams
-bio: My research interests include computational biology, phylogenetics,
-  high-performance computing, and computer science education.
+bio: My research interests include bioinformatics and computational biology;
+  computational phylogenetics; high-performance computation; and computers and
+  education..
 interests:
-  - Bioinformatics
-  - Computer Science Education
+  - Bioinformatics and Computational Biology
+  - Computational Phylogenetics
+  - Computers and Education
   - High-Performance Computing
-  - Phylogenetics
 social:
   - icon: envelope
     icon_pack: fas
