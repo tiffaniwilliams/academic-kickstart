@@ -1,5 +1,5 @@
 ---
-role: Dean's Fellow in Inclusion, Belonging, and Engagement, Grainger College of Engineering<br/> Teaching Professor, Department of Computer Science
+role: Teaching Professor, Department of Computer Science<br/> <br/> Dean's Fellow in Inclusion, Belonging, and Engagement, Grainger College of Engineering
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Illinois at Urbana-Champaign
