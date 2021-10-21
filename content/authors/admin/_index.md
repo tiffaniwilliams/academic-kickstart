@@ -1,5 +1,5 @@
 ---
-role: Teaching Professor, Department of Computer Science<br/> <br/> Dean's Fellow in Inclusion, Belonging, and Engagement, Grainger College of Engineering
+role: Teaching Professor and Director of Onramp Programs, Department of Computer Science<br/> <br/> Dean's Fellow in Inclusion, Belonging, and Engagement, Grainger College of Engineering
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Illinois at Urbana-Champaign
